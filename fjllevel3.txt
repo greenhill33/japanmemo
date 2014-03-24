@@ -17,4 +17,4 @@
 変=へん==weird, strange
 上手=じょうず==skillful
 親切=しんせつ==kind, nice
-素敵=すてき=="cool", good looking
+素敵=すてき==cool, good looking

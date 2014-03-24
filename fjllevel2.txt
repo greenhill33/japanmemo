@@ -1,0 +1,34 @@
+一=いち==one
+二=に==two
+三=さん==three
+四=し、 よん==four
+五=ご==five
+六=ろく==six
+七=しち、 なな==seven
+八=はち==eight
+九=きゅう==nine
+十=じゅう==ten
+百=ひゃく==hundred
+一時=いちじ==one o'clock
+二時=にじ==two o'clock
+二時半=にじはん==two thirty (半 means half)
+二時四十五分=にじよんじゅうごふん==2:45 (分 means minute)
+一月=いちがつ==January
+二月=にがつ==February
+三月=さんがつ==March
+四月=しがつ==April
+日曜日=にちようび==Sunday (日 - sun/day)
+月曜日=げつようび==Monday (月 - moon)
+火曜日=かようび==Tuesday (火 - fire)
+水曜日=すいようび==Wednesday (水 - water)
+木曜日=もくようび==Thursday (木 - tree/wood)
+金曜日=きんようび==Friday (金 - gold)
+土曜日=どようび==Saturday (土 - dirt)
+今日=きょう==Today
+明日=あした==Tomorrow
+昨日=きのう==Yesterday
+一昨日=おととい==the day before yesterday
+明後日=あさって==the day after tomorrow (a small "tsu" (っ) makes a double consonant)
+今朝=けさ==this morning
+今晩=こんばん==this evening
+今=いま==now

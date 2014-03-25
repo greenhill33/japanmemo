@@ -1,20 +1,20 @@
-赤い=あかい==red
-黄色い=きいろい==yellow
-青い=あおい==blue
-黒い=くろい==black
-白い=しろい==white
-面白い=おもしろい==interesting, funny
-暑い=あつい==hot
-寒い=さむい==cold
-大きい=おおきい==big
-小さい=ちいさい==small
-自然=しぜん==nature
-綺麗=きれい==pretty, clean
-失礼=しつれい==rude
-静か=しずか==quiet
-特別=とくべつ==special
-元気=げんき==in good spirits
-変=へん==weird, strange
-上手=じょうず==skillful
-親切=しんせつ==kind, nice
-素敵=すてき==cool, good looking
+4
+6
+23
+98
+134
+189
+209
+231
+239
+283
+296
+1783
+945
+323
+976
+317
+5455
+398
+1064
+597

@@ -1,0 +1,11 @@
+会長=かいちょう=n=Chairman, President,董事長(董事长)
+社長=しゃちょう=n=General Manager,President,社長(社长),總經理(总经理)
+専務=せんむ=n=Executive Director,專務董事(专务董事),執行董事(执行董事)
+常務=じょうむ=n=Senior Director,常務董事(常务董事)
+監査役=かんさやく=n=Auditing Director,監察人(监察人)
+取締役=とりしまりやく=n=director,董事
+部長=ぶちょう=n=Department Manager,經理(经理)
+課長=かちょう=n=Section Manager,課長(课长)
+係長=かかりちょう=n=Subsection Chief,組長(组长)
+主任=しゅにん=n=Senior Staff,主任
+職員=しょくいん=n=Staff,職員(职员)

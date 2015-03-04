@@ -6,14 +6,12 @@
 鍵=かぎ==key
 雑誌=ざっし==magazine
 傘=かさ==umbrella
-歯ブラシ=はぶらし==toothbrush
 辭書=じしょ==dictionary
 新聞=しんぶん==newspaper
 石鹸=せっけん==soap
 電池=でんち==battery
 本=ほん==book
 漫畫=まんが==comic book
-シャンプー=しゃんぷー==shampoo
 リンス=りんす==rinse
 石鹸=せっけん==soap
 歯磨き粉=はみがきこ==toothpaste
@@ -26,7 +24,6 @@
 バスタオル=バスタオル==bath towel
 電池=でんち==electric battery
 トイレットペーパー=といれっとぺーぱー==toilet paper
-タオル=たおる==towel
 ハサミ=はさみ==scissors
 電球=でんきゅう==light bulb
 懐中電燈=かいちゅうでんとう==flash-light

@@ -9,3 +9,11 @@
 係長=かかりちょう=n=Subsection Chief,組長(组长)
 主任=しゅにん=n=Senior Staff,主任
 職員=しょくいん=n=Staff,職員(职员)
+=コンサルタント=n=consultant,顧問(顾问)
+企画=きかく=n=marketing planning,行銷企劃(行销企划)
+事務=じむ=n=administrative,行政工作
+技術者=けいぎじゅつしゃ=n=engineer,工程師(工程师)
+営業=えいぎょう=n=business,業務(业务)
+=サービス=n=service,服務人員(服务人员)
+販売=はんばい=n=salesperson,銷售人員(销售人员)
+広告=クリエイティブ=n=creative staff,創意工作人員(创意工作人员)

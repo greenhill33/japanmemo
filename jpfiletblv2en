@@ -11,6 +11,10 @@
 %%%B constellationen.txt=Constellations=12 words, the 12 Zodiacal Constellations
 %%%B aflighten.txt=by airplane=50 words, by airplane vocabulary
 %%%B account_term_en.txt=accounting terms=37 words, common accounting terminology words
+%%%B bodyparts_en.txt=Body Parts=59 sentence, Human Body Parts.
+%%%B basicphrases_en.txt=Phrases=120 sentence, Basic Japanese Phrases.
+%%%C learnbasic_en.txt=Learn Basic=331 words, Read basic grammar, verbs and phrases for begin learning.
+%%%C usefulwords_en.txt=useful words=150 words, Most useful Japanese words.
 %%%C electricen.txt=appliances vocab=150 words, appliances vocabulary
 %%%C clothesen.txt=clothing vocab=128 words, clothing vocabulary
 %%%D sewingen.txt=sewing vocab=353 words, sewing factory vocabulary
@@ -24,4 +28,4 @@
 %%%C mission2_en.txt=mission2=414 words, Build your basic Japanese vocab, count, go shopping.
 %%%D mission3_en.txt=mission3=642 words, Find way, talk future, learn some Japanese expressions.
 %%%D jlptn5read_en.txt=JLPT N5 reading=670 words, A list for the N5 Japanese Language Proficiency Test that is a conglomerate of different lists on the web.
- 
+%%%E animemanga_en.txt=Anime Manga=1398 words, Beginner's Anime & Manga Vocabulary.

@@ -16,6 +16,9 @@
 %%%C electriccn.txt=电器用品=150词, 电器用品词汇
 %%%C clothescn.txt=服饰词汇=128词, 服饰词汇
 %%%D sewingcn.txt=针线词汇=353词, 针线工厂词汇
+%%%C jlptn4advj_tw.txt=N4副词形容词=128字,JLPT日検N4 掌握副词、形容动词、形容词词汇 (2017网友Jo分享)
+%%%C jlptn4noun_tw.txt=N4名词=277字,JLPT日検N4 掌握名词词汇 (2017网友Jo分享)
+%%%C jlptn4verb_tw.txt=N4动词=188字,JLPT日検N4 涵盖的所有动词 (2017网友Jo分享)
 %%%D fourthlevel.txt=日语第四级单词=749字,日语单词表(日语能力第4级)
 %%%D thirdlevel.txt=日语第三级单词=688个字,日语单词表(日语能力第3级)
 %%%E secondlevel.txt=日语第二级单词=3637个字,日语单词表(日语能力第2级)
@@ -34,9 +37,6 @@
 %%%E japanbook_tw.txt=日本课本学日文=1919词,从日本中小学课本学日文，涵盖12类日本风俗民情和知识
 %%%C kouyuwang1_tw.txt=口语王_问候语=140词, 日语口语王:想说就说，情境主题-问候语
 %%%B kouyuwang2_tw.txt=口语王_道别用语=80词, 日语口语王:想说就说，情境主题-道别用语
-%%%C jlptn4advj_tw.txt=N4副词形容词=128字,JLPT日検N4 掌握副词、形容动词、形容词词汇 (2017网友Jo分享)
-%%%C jlptn4noun_tw.txt=N4名词=277字,JLPT日検N4 掌握名词词汇 (2017网友Jo分享)
-%%%C jlptn4verb_tw.txt=N4动词=188字,JLPT日検N4 涵盖的所有动词 (2017网友Jo分享)
 %%%B mission1_tw.txt=日文任务一=167词,平假名，片假名和汉字。介绍自己，到处逛逛
 %%%C mission2_tw.txt=日文任务二=410词,基础词汇库，学会数数、购物、有用的表达
 %%%C mission3_tw.txt=日文任务三=639词,找到方向，谈谈未来，学习更多表达
